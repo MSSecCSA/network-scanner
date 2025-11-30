@@ -1,0 +1,129 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+postgresql/
+postgres-data/
+
+# Redis
+dump.rdb
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Scan results (sensitive data)
+data/scans/*.json
+data/scans/*.csv
+data/scans/*.xml
+data/reports/*.pdf
+data/reports/*.html
+
+# Keep directory structure
+!data/scans/.gitkeep
+!data/reports/.gitkeep
+!logs/.gitkeep
+
+# Packet captures
+*.pcap
+*.pcapng
+*.cap
+
+# SSH keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Credentials
+credentials.json
+secrets.yaml
+config.local.yaml
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Distribution
+*.tar.gz
+*.zip
+*.whl
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Node modules (if using any JS tools)
+node_modules/
+
+# Documentation builds
+docs/_build/
+site/
