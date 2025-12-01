@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Sun Nov 30 16:41:45 2025 as: nmap -sV -p 80,443,554,8000-8080,10001 -oN /home/bmoore/Projects/network-scanner/data/scans/wyze_ports_20251130_164145.txt 192.168.156.85,192.168.156.126,192.168.156.184,192.168.156.34,192.168.156.36
+Failed to resolve "192.168.156.85,192.168.156.126,192.168.156.184,192.168.156.34,192.168.156.36".
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Sun Nov 30 16:41:45 2025 -- 0 IP addresses (0 hosts up) scanned in 0.11 seconds

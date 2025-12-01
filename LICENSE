@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Network Scanner Contributors
+Copyright (c) 2025 Network Scanner Project
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -17,24 +17,25 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF THE SOFTWARE OR THE USE OF DEALINGS IN THE SOFTWARE.
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
-ADDITIONAL TERMS FOR NETWORK SCANNING SOFTWARE:
+IMPORTANT DISCLAIMER:
 
-This license does NOT grant permission to:
-- Scan networks you do not own or have authorization to test
-- Use the software for any illegal or unauthorized purpose
-- Circumvent security measures on systems you do not control
+This tool is designed for monitoring YOUR OWN network only. Unauthorized 
+network scanning, monitoring, or penetration testing is illegal in most 
+jurisdictions and may violate:
 
-Users are solely responsible for ensuring their use complies with all
-applicable laws and regulations, including but not limited to:
-- Computer Fraud and Abuse Act (CFAA) - United States
-- Computer Misuse Act - United Kingdom
-- Similar laws in other jurisdictions
+- Computer Fraud and Abuse Act (CFAA) in the United States
+- Computer Misuse Act in the United Kingdom
+- Similar laws in other countries
 
-Unauthorized network scanning may result in criminal prosecution.
+By using this software, you agree to:
+1. Only scan networks you own or have explicit written permission to scan
+2. Comply with all applicable laws and regulations
+3. Use this tool ethically and responsibly
+4. Not hold the authors liable for any misuse
 
-By using this software, you agree to use it only for lawful, authorized
-purposes and accept full responsibility for your actions.
+The authors assume no liability for misuse of this software.

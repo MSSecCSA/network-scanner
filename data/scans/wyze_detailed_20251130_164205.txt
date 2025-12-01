@@ -1,0 +1,85 @@
+=== Scanning 192.168.156.85 ===
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-11-30 16:42 EST
+Nmap scan report for wyze_cakp2jfus-7c78b219ea5c.lan (192.168.156.85)
+Host is up (0.014s latency).
+
+PORT      STATE  SERVICE      VERSION
+80/tcp    closed http
+88/tcp    closed kerberos-sec
+443/tcp   closed https
+554/tcp   closed rtsp
+6667/tcp  closed irc
+9999/tcp  closed abyss
+10001/tcp closed scp-config
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.25 seconds
+
+=== Scanning 192.168.156.126 ===
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-11-30 16:42 EST
+Nmap scan report for wyzec1-jz-2caa8e19502e.lan (192.168.156.126)
+Host is up (0.023s latency).
+
+PORT      STATE  SERVICE      VERSION
+80/tcp    closed http
+88/tcp    closed kerberos-sec
+443/tcp   closed https
+554/tcp   closed rtsp
+6667/tcp  closed irc
+9999/tcp  closed abyss
+10001/tcp closed scp-config
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.28 seconds
+
+=== Scanning 192.168.156.184 ===
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-11-30 16:42 EST
+Nmap scan report for wyzec1-jz-2caa8e2c6938.lan (192.168.156.184)
+Host is up (0.029s latency).
+
+PORT      STATE  SERVICE      VERSION
+80/tcp    closed http
+88/tcp    closed kerberos-sec
+443/tcp   closed https
+554/tcp   closed rtsp
+6667/tcp  closed irc
+9999/tcp  closed abyss
+10001/tcp closed scp-config
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.29 seconds
+
+=== Scanning 192.168.156.34 ===
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-11-30 16:42 EST
+Nmap scan report for wyzec1-jz-2caa8e1922f2.lan (192.168.156.34)
+Host is up (0.098s latency).
+
+PORT      STATE  SERVICE      VERSION
+80/tcp    closed http
+88/tcp    closed kerberos-sec
+443/tcp   closed https
+554/tcp   closed rtsp
+6667/tcp  closed irc
+9999/tcp  closed abyss
+10001/tcp closed scp-config
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.45 seconds
+
+=== Scanning 192.168.156.36 ===
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-11-30 16:42 EST
+Nmap scan report for hl_cam3p-d03f2793596d.lan (192.168.156.36)
+Host is up (0.025s latency).
+
+PORT      STATE  SERVICE      VERSION
+80/tcp    closed http
+88/tcp    closed kerberos-sec
+443/tcp   closed https
+554/tcp   closed rtsp
+6667/tcp  closed irc
+9999/tcp  closed abyss
+10001/tcp closed scp-config
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.27 seconds
+
